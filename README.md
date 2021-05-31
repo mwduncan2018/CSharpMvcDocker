@@ -1,10 +1,11 @@
 ###### Start developing a C# MVC Dotnet Core website from here. The Dockerfiles are already created.
-###### git clone https://github.com/dotnet/dotnet-docker
-###### Copy the aspnetapp from the samples folderPaste it into a new directory as a starting point for the .NET CORE MVC project
-###### Dockerfiles are already createdRun in Powershell
-###### docker build --pull -t <imageName>
-###### docker run -rm -it -p 8000:80 <imageName>
-
+```diff
+! git clone https://github.com/dotnet/dotnet-docker
+! Copy the aspnetapp from the samples folderPaste it into a new directory as a starting point for the .NET CORE MVC project
+! Dockerfiles are already createdRun in Powershell
+! docker build --pull -t <imageName>
+! docker run -rm -it -p 8000:80 <imageName>
+```
 # ASP.NET Core Docker Sample
 
 This sample demonstrates how to build container images for ASP.NET Core web apps. You can use these samples for Linux and Windows containers, for x64, ARM32 and ARM64 architectures.
