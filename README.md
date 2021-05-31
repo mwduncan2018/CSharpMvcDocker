@@ -1,4 +1,4 @@
-###### Start developing a C# MVC Dotnet Core website from here. The Dockerfiles are already created.
+###### Some info...
 ```diff
 ! git clone https://github.com/dotnet/dotnet-docker
 ! Copy the aspnetapp from the samples folderPaste it into a new directory as a starting point for the .NET CORE MVC project
